@@ -1,0 +1,30 @@
+{
+  "id": "3037049",
+  "name": "人单合一海外官网",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1203465",
+      "name": "list_share",
+      "font_class": "listshare",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "7749546",
+      "name": "16gl-quoteLeft",
+      "font_class": "16gl-quoteLeft",
+      "unicode": "eb8a",
+      "unicode_decimal": 60298
+    },
+    {
+      "icon_id": "11372666",
+      "name": "分享",
+      "font_class": "fenxiang",
+      "unicode": "e8b0",
+      "unicode_decimal": 59568
+    }
+  ]
+}
